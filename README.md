@@ -1,1 +1,5 @@
-# Kosovo-domestic-violence-report-2023
+# From paper to practice: Kosovo must keep its commitments to domestic violence survivors
+
+This GitHub repository accompanies the Amnesty International report and appendix “*From paper to practice: Kosovo must keep its commitments to domestic violence survivors*” (Index No: EUR 73/7123/2023, EUR 73/7124/2023). The report used an innovative mixed-methods research approach to capture the experiences of survivors of domestic violence in Kosovo from multiple perspectives. The mixed-methods approach involved interviews with survivors and experts; desk research, including reviews of existing literature and media articles; formal requests to relevant officials for public information access; and quantitative analysis of a representative sample of court judgments. The report and appendix are available at https://www.amnesty.org/en/.
+
+The appendix provides more detail on each aspect of the quantitative research methodology (Section A), in-depth empirical analysis of the judgment data (Section B), and a codebook that describes the manual coding procedure employed (Section C). The data on court decisions, defendants and victims is provided in this GitHub repository.
